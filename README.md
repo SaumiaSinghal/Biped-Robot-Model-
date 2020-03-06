@@ -1,2 +1,2 @@
 # Biped-Robot-Model-
-This repository contains Simulink the code for 8 degree of freedom biped walking robot model. 
+This repository contains the code for 8 degree of freedom biped walking robot model. 
